@@ -1,5 +1,5 @@
-# 7H-SteamDeck-Fix
-Streamlining the installation process of 7th Heaven on Steam Deck
+# 7H-Linux-Fix
+Streamlining the installation process of 7th Heaven on Linux
 
 The script provided **AUTOMATICALLY** downloads:
 * [7th-Heaven](https://github.com/tsunamods-codes/7th-Heaven/releases/) (Stable)
